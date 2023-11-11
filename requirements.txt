@@ -1,0 +1,13 @@
+# Setup and Development
+setuptools
+setuptools_scm
+wheel
+
+# Test
+pytest==7.2.1
+pytest-cov==4.0.0
+pytest-mock==3.10.0
+
+# Production
+pandas==1.5.2
+numpy==1.24.0
